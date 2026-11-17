@@ -1,16 +1,19 @@
-## Hi there 👋
+Hello, I'm Tumelo Matlala 
 
-<!--
-**Loki-tech342/Loki-tech342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year data science student learning to turn data into useful insights.
 
-Here are some ideas to get you started:
+## Skills
+- Python: beginner/intermediate
+- SQL: beginner/intermediate
+- Machine learning: intermediate
+- Data analysis: pandas, NumPy, Matplotlib
+- Currently learning: machine learning and model evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [Exploratory Data Analysis](link-to-repository): An analysis of [dataset/topic].
+- [SQL Analysis](link-to-repository): Queries and findings about [dataset/topic].
+- [Prediction Project](link-to-repository): A baseline model for [task].
+
+## Contact
+- [LinkedIn](your-link)
+- [Portfolio](your-link)
